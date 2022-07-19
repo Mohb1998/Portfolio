@@ -48,9 +48,9 @@ body{
 }
 
 /* Here we use the webkit property to remove the scrollbar */
-::-webkit-scrollbar{
+/* ::-webkit-scrollbar{
     display: none;
-}
+} */
 
 
 .container{
